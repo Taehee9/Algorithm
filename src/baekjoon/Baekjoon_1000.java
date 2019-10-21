@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 /**
  * baekjoon #1000
+ * https://www.acmicpc.net/problem/1000
  * a, b 입력받고 a + b 출력
  * 
  * @author Taehee Kwon, dhstoalfh9509@gmail.com, 2019

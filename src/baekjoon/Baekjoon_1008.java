@@ -11,6 +11,7 @@ import java.util.Scanner;
 
 /**
  * baekjoon #1008
+ * https://www.acmicpc.net/problem/1008
  * a, b 입력받고 a / b 출력
  * 실제 정답과 출력값의 절대오차 또는 상대오차가 10^(-9) 이하이면 정답
  * 
