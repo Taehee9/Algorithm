@@ -28,6 +28,7 @@ public class Baekjoon_1157 {
 		int max = 0;
 		int maxIndex = 0;
 		
+		// 대소문자 구별 없애기 위해 모두 다 대문자 처리
 		String s = br.readLine().toUpperCase();
 		charS = s.toCharArray();
 		
@@ -57,21 +58,3 @@ public class Baekjoon_1157 {
 	}
 
 }
-
-/*
-
-제출 할 때의 기본 폼
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
-public class Main {
-
-	public static void main(String args[]) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-	}
-
-}
-
-*/
