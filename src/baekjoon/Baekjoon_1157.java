@@ -30,6 +30,7 @@ public class Baekjoon_1157 {
 		
 		// 대소문자 구별 없애기 위해 모두 다 대문자 처리
 		String s = br.readLine().toUpperCase();
+		// String을 문자 배열로 변경
 		charS = s.toCharArray();
 		
 		for(int i = 0; i < charS.length; i++){
