@@ -20,7 +20,7 @@ import java.util.ArrayList;
  * @since  2019. 12. 03.
  */
 public class Baekjoon_2750{
-
+	// 삽입정렬로 바꿔서 다시 풀어보기
 	public static void main(String...args) throws NumberFormatException, IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int tc = Integer.parseInt(br.readLine());
